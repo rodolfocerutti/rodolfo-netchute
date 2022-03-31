@@ -108,10 +108,10 @@ $result = $conn->query($sql);
         <div style="height: 100px;"></div>
 
 
-        div class="footer-copyright fixed-bottom bg-primary text-center py-3">
+        <div class="footer-copyright fixed-bottom bg-primary text-center py-3">
             <span class="text-light align-middle">| ::: NetChute - Artigos esportivos. ::: UC 14 | - ©
                 2022 Copyright: CTM Supervisão de Educação Online</span>
-        </div
+            </div>
 
     </div>
     </div>
