@@ -85,7 +85,7 @@
 						</div>
 						<div class="col col-sm-8">
 							<label class="form-label">E-mail: </label>
-							<input type="email" id="email" name="e-mail" class="form-control" value="">
+							<input type="email" id="email" name="email" class="form-control" value="">
 							<small id="emailHelp" class="form-text text-muted"><em>email@email.com</em></small>
 						</div>
 					</div>
