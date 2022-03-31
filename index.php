@@ -29,7 +29,7 @@
 
 		<nav class="navbar navbar-expand-lg navbar-dark bg-primary rounded">
 			<div class="container-fluid">
-				<a class="navbar-brand" href="index-errado.php">::: NetChute :::</a>
+				<a class="navbar-brand" href="index.php">::: NetChute :::</a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
@@ -39,10 +39,10 @@
 							<a class="nav-link active" aria-current="page" href="index.php">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="listar-paise-da-oceania.php">Listar Clientes</a>
+							<a class="nav-link" href="listar.php">Listar Clientes</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="index-também-estou-errado.php">Cadastrar Clientes</a>
+							<a class="nav-link" href="index.php">Cadastrar Clientes</a>
 						</li>
 					</ul>
 				</div>
