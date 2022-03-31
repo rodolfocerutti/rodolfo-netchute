@@ -67,7 +67,7 @@
 					<div class="row row g-2">
   						<div class="col col-sm">
 							<label class="form-label">Código: </label>
-							<input type="number" id="codigo" name="" class="form-control" value="">
+							<input type="number" id="codigo" name="codigo" class="form-control" value="">
 							<small class="form-text text-muted"><em>Somente números.</em></small>
 						</div>
 						<div class="col col-sm-10">
@@ -80,12 +80,12 @@
 					<div class="row  row g-2">
   						<div class="col col-sm">
 							<label class="form-label">CPF: </label>
-							<input type="text" id="cpf" name="" class="form-control" value="9999999">
+							<input type="text" id="cpf" name="cpf" class="form-control" value="9999999">
 							<small  class="form-text text-muted"><em>Somente números.</em></small>
 						</div>
 						<div class="col col-sm-8">
 							<label class="form-label">E-mail: </label>
-							<input type="email" id="email" name="" class="form-control" value="">
+							<input type="email" id="email" name="e-mail" class="form-control" value="">
 							<small id="emailHelp" class="form-text text-muted"><em>email@email.com</em></small>
 						</div>
 					</div>
